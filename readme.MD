@@ -1,0 +1,1 @@
+Software for a quadruped robot with 12 SC09 servos.
